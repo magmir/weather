@@ -9,7 +9,7 @@ console.log(data);
 alert('Location: ' + data.name + '\n' +
     'Temperature: ' + data.main.temp + 'K\n' +
      'Humidity: ' + data.main.humidity + '%\n' +
-	 'Wind: ' + data.wind.speed + 'km/h \n'); 
+	 'Wind: ' + data.wind.speed + 'km/h \n');   
 
 }
 });
