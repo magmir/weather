@@ -1,0 +1,18 @@
+{"cities": [
+{"_id":0,"name":"Select the country"},
+{"_id":6356055,"name":"Barcelona","country":"ES","coord":{"lon":2.12804,"lat":41.399422}},
+{"_id":2950159,"name":"Berlin","country":"DE","coord":{"lon":13.41053,"lat":52.524368}},
+{"_id":3054643,"name":"Budapest","country":"HU","coord":{"lon":19.039909,"lat":47.498009}},
+{"_id":2650225,"name":"Edinburgh","country":"GB","coord":{"lon":-3.19648,"lat":55.952061}},
+{"_id":2925533,"name":"Frankfurt am Main","country":"DE","coord":{"lon":8.68333,"lat":50.116669}},
+{"_id":3094802,"name":"Krakow","country":"PL","coord":{"lon":19.91667,"lat":50.083328}},
+{"_id":6458923,"name":"Lisbon","country":"PT","coord":{"lon":-9.14843,"lat":38.726349}},
+{"_id":2643743,"name":"London","country":"GB","coord":{"lon":-0.12574,"lat":51.50853}},
+{"_id":7530820,"name":"Sopot","country":"PL","coord":{"lon":18.547819,"lat":54.441849}},
+{"_id":2147714,"name":"Sydney","country":"AU","coord":{"lon":151.207321,"lat":-33.867851}},
+{"_id":7531926,"name":"Warszawa","country":"PL","coord":{"lon":21.061399,"lat":52.233101}},
+{"_id":7531513,"name":"Zakopane","country":"PL","coord":{"lon":19.971861,"lat":49.275761}},
+{"_id":2657896,"name":"Zurich","country":"CH","coord":{"lon":8.55,"lat":47.366669}}
+]}
+
+
