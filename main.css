@@ -3,9 +3,10 @@ background: #CCC url(img/sky2.jpg) top left;
 }
 
 img {
-display: inline;
+display: block;
+margin-left: auto;
+margin-right: auto;
 height: 90px;
-padding-left: 30px;
 }
 
 #city, button {
@@ -58,14 +59,11 @@ padding:0;
 
 .well {
 margin-top:0px;
+
 }
 
 #weather, #forecast, #forecast2 {
 margin-left: 0px;
-}
-
-img {
-padding-left: 40px;
 }
 
 .last {
