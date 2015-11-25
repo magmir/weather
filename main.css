@@ -60,17 +60,12 @@ padding:0;
 margin-top:0px;
 }
 
-.foot{
-position: fixed;
-margin-top: 50px;
-}
-
 #weather, #forecast, #forecast2 {
-margin-left: 20px;
+margin-left: 0px;
 }
 
 img {
-padding-left: 50px;
+padding-left: 40px;
 }
 
 .last {
